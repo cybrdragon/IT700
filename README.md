@@ -113,31 +113,6 @@ Once your PR is merged, sync with upstream so your fork and local copy include c
 
 ---
 
-## Optional: use a feature branch instead of committing to main
-
-This is common in professional workflows.
-
-```bash
-git checkout -b intro/<your-last-name>
-# edit files
-git add .
-git commit -m "Add introduction"
-git push -u origin intro/<your-last-name>
-```
-
-Open the pull request from `intro/<your-last-name>` on your fork to `lybarger/IT700` main.
-
----
-
-## Common issues and quick checks
-
-* **Permission denied when pushing** — confirm your remote is your fork: `git remote -v`. Push to `origin`, not `upstream`.
-* **Password rejected** — use a personal access token when Git asks for a password.
-* **"fatal: not a git repository"** — `cd` into the cloned folder before running Git commands.
-* **Branch name mismatch** — if the repo uses a branch other than `main`, substitute that name in commands.
-
----
-
 ## Minimal Git command reference for this exercise
 
 ```bash
@@ -157,5 +132,3 @@ git checkout main
 git merge upstream/main
 git push origin main
 ```
-
-This version removes nonessential background, modernizes the fork and pull request flow, and uses commands that work on Windows, macOS, and Linux.
