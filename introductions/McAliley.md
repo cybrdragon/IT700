@@ -1,0 +1,1 @@
+Hello My name is Timothy McAliley, 1st year PhD student and adjunct professor. i am also a Microsoft cloud solution Architect. I am interested researching organizations and their AI adoption strategies.  
