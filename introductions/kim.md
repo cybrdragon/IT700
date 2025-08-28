@@ -1,0 +1,3 @@
+Jinyi Kim
+
+My research interests lie in how AI influences research activities, with a particular focus on issues such as fairness, accountability, transparency, and societal implications. I also aim to explore how AI can be integrated not only as a tool to enhance research, but also as a subject of critical inquiry. This includes investigating how PhD students engage with AI technologies, how to foster AI literacy, and how research institutions can adapt to ensure responsible and equitable use of AI. In addition, I am interested in how these ethical principles can be embedded into AI system design.
